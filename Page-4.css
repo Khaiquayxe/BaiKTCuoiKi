@@ -1,0 +1,135 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 852px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 189px;
+  height: 189px;
+  background-image: url("/images/285067190_751742249173359_1144162312903938785_n.jpg");
+  background-position: 50% 50%;
+  margin: -95px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 53px auto 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 302px;
+  height: 551px;
+  object-position: 56.91% 50%;
+  margin: 50px auto 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 536px;
+  height: 219px;
+  margin: -550px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  width: 302px;
+  height: 331px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-image-5 {
+  width: 302px;
+  height: 219px;
+  object-position: 50% 100%;
+  margin: -550px 0 0 auto;
+}
+
+.u-section-1 .u-image-6 {
+  width: 268px;
+  height: 169px;
+  margin: 0 auto 0 302px;
+}
+
+.u-section-1 .u-image-7 {
+  width: 268px;
+  height: 169px;
+  margin: -169px auto 0 570px;
+}
+
+.u-section-1 .u-image-8 {
+  width: 268px;
+  height: 162px;
+  margin: 0 auto 0 302px;
+}
+
+.u-section-1 .u-image-9 {
+  width: 268px;
+  height: 162px;
+  margin: -162px auto 51px 570px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-6 {
+    margin-left: 202px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: 470px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 202px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-6 {
+    margin-left: 151px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: 301px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 151px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 301px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-6 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 772px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 340px;
+    height: 139px;
+  }
+}

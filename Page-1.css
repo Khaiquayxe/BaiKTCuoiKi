@@ -1,0 +1,27 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 622px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 189px;
+  height: 189px;
+  background-image: url("/images/285067190_751742249173359_1144162312903938785_n.jpg");
+  background-position: 50% 50%;
+  margin: -95px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 57px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 2;
+  margin: 41px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+}
